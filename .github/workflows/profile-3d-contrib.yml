@@ -5,26 +5,29 @@ on:
     # Runs every day at 00:00 UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
+      - uses: actions/checkout@v4
+
       - name: Generate 3D contribution graph (purple/night theme)
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_USER_NAME: nyabokegrace
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: nyabokegrace
 
       - name: Commit and push generated SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f ./profile-3d-contrib
-          git commit -m "docs(profile): update 3D contribution graph [skip ci]" || echo "No changes to commit"
-          git push origin output --force
+          git add -A .
+          if git commit -m "docs(profile): update 3D contribution graph [skip ci]"; then
+            git push
+          else
+            echo "No changes to commit"
+          fi
