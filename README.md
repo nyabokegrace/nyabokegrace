@@ -1,24 +1,119 @@
-# 💫 About Me:
-Software development<br>Open source contributions<br>AI developments and machine learning<br>Women empowerment
+<!-- Grace Nyaboke — GitHub Profile README -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nyaboke Grace) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Nyaboke Grace) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nyabokegrace007@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=C792EA&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Grace+Nyaboke+%F0%9F%91%8B;Full-Stack+Developer;Code%2C+community%2C+and+a+little+chaos.;Apprentice+%40+Zone01+Kisumu)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nyabokegrace&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nyabokegrace&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nyabokegrace&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=nyabokegrace&style=flat-square&color=c792ea&label=PROFILE+VIEWS" alt="profile views"/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nyabokegrace&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=nyabokegrace&icon=6&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `> whoami`
+
+```bash
+$ cat profile.json
+{
+  "name":       "Grace Nyaboke",
+  "focus":      "Full-Stack Development",
+  "stack":      ["C", "C#", "C++", "Go", "JavaScript", "Python", "React"],
+  "status":     "Apprentice @ Zone01 Kisumu",
+  "interests":  ["Open Source", "AI & Machine Learning", "Women in Tech"],
+  "motto":      "Code, community, and a little chaos."
+}
+```
+
+---
+
+### `> ls ./stack`
+
+<div align="center">
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=C792EA)
+![C#](https://img.shields.io/badge/C%23-0d0d0d?style=for-the-badge&logo=csharp&logoColor=C792EA)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=C792EA)
+![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=C792EA)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=C792EA)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=C792EA)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=C792EA)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=C792EA)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=C792EA)
+![WordPress](https://img.shields.io/badge/WordPress-0d0d0d?style=for-the-badge&logo=wordpress&logoColor=C792EA)
+
+**Backend & Cloud**
+
+![.NET](https://img.shields.io/badge/.NET-0d0d0d?style=for-the-badge&logo=dotnet&logoColor=C792EA)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d0d0d?style=for-the-badge&logo=cloudflare&logoColor=C792EA)
+![OpenStack](https://img.shields.io/badge/OpenStack-0d0d0d?style=for-the-badge&logo=openstack&logoColor=C792EA)
+
+</div>
+
+---
+
+### `> cat about.log`
+
+```bash
+$ ./interests.sh
+  → Software development
+  → Open source contributions
+  → AI developments and machine learning
+  → Women empowerment in tech
+```
+
+---
+
+### `> git log --stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=nyabokegrace&show_icons=true&theme=dracula&bg_color=0d0d0d&border_color=c792ea&icon_color=c792ea&title_color=c792ea&text_color=e0d4f5&hide_border=false&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyabokegrace&layout=compact&theme=dracula&bg_color=0d0d0d&border_color=c792ea&title_color=c792ea&text_color=e0d4f5" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nyabokegrace&theme=dracula&background=0d0d0d&border=c792ea&stroke=c792ea&ring=c792ea&fire=c792ea&currStreakNum=c792ea&sideNums=c792ea&currStreakLabel=c792ea&sideLabels=e0d4f5&dates=9d7bb0)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### `> cat activity.log`
+
+[![Grace's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nyabokegrace&bg_color=0d0d0d&color=c792ea&line=c792ea&point=e0d4f5&area=true&area_color=2d1b3d&hide_border=false&border_color=c792ea&title_color=c792ea)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### `> ping ./connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=C792EA)](https://linkedin.com/in/Nyaboke-Grace)
+[![Pinterest](https://img.shields.io/badge/Pinterest-0d0d0d?style=for-the-badge&logo=pinterest&logoColor=C792EA)](https://pinterest.com/Nyaboke-Grace)
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=C792EA)](mailto:nyabokegrace007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=C792EA)](https://github.com/nyabokegrace)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║   "Build boldly. Share freely. Lift others up."         ║
+║                       — Grace Nyaboke, Zone01 Kisumu     ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+![Snake animation](https://raw.githubusercontent.com/nyabokegrace/nyabokegrace/output/github-contribution-grid-snake-dark.svg)
+
+</div>
