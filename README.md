@@ -123,7 +123,7 @@ I build software that solves real problems — from clean, full-stack web apps t
 ## 🪻 3D Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/nyabokegrace/nyabokegrace/output/profile-3d-contrib/profile-night-purple.svg" width="100%" alt="3D contribution graph"/>
+<img src="https://raw.githubusercontent.com/nyabokegrace/nyabokegrace/main/profile-3d-contrib/profile-night-purple.svg" width="100%" alt="3D contribution graph"/>
 </div>
 
 > Generated automatically every day via GitHub Actions ✨ (see workflow below)
