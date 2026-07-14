@@ -85,8 +85,6 @@ const grace = {
 
 ---
 
-### `> render --mode conway-life`
-
 <div align="center">
 
 ![Grace's Contribution Graph](https://raw.githubusercontent.com/nyabokegrace/nyabokegrace/output/github-contribution-grid-snake-dark.svg)
