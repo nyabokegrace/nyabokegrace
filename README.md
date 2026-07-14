@@ -85,8 +85,6 @@ const grace = {
 
 ---
 
-### `> render --mode breakout`
-
 <div align="center">
 
 <picture>
