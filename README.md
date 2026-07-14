@@ -85,9 +85,15 @@ const grace = {
 
 ---
 
+### `> render --mode breakout`
+
 <div align="center">
 
-![Grace's Contribution Graph](https://raw.githubusercontent.com/nyabokegrace/nyabokegrace/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nyabokegrace/nyabokegrace/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nyabokegrace/nyabokegrace/output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/nyabokegrace/nyabokegrace/output/breakout-contribution-graph.svg">
+</picture>
 
 </div>
 
