@@ -110,11 +110,5 @@ const grace = {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   "Build boldly. Share freely. Lift others up." 💜      ║
-║                       — Grace Nyaboke, Zone01 Kisumu     ║
-╚══════════════════════════════════════════════════════════╝
-```
 
 </div>
